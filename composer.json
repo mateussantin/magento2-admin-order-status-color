@@ -12,6 +12,10 @@
             "email": "mateussantin.jr@gmail.com"
         }
     ],
+    "require": {
+        "php": "~7.0.0|~7.1.0|~7.2"
+    },
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
