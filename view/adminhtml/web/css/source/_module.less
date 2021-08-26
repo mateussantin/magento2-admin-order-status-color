@@ -1,0 +1,51 @@
+/**
+ * Copyright © Mateus, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+@import '_colors.less';
+
+.page-layout-admin-1column {
+    .order-pending,
+    .order-processing,
+    .order-complete,
+    .order-closed,
+    .order-default {
+        display: block;
+        font-weight: bold;
+        padding: 3px;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 13px;
+    }
+
+    .order-pending {
+        background: @bg-pending;
+        border: 1px solid @color-pending;
+        color: @color-pending;
+    }
+
+    .order-processing {
+        background: @bg-processing;
+        border: 1px solid @color-processing;
+        color: @color-processing;
+    }
+
+    .order-complete {
+        background: @bg-complete;
+        border: 1px solid @color-complete;
+        color: @color-complete;
+    }
+
+    .order-closed {
+        background: @bg-closed;
+        border: 1px solid @color-closed;
+        color: @color-closed;
+    }
+
+    .order-default {
+        background: @bg-default;
+        border: 1px solid @color-default;
+        color: @color-default;
+    }
+}
