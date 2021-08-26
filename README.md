@@ -12,4 +12,4 @@ php bin/magento setup:static-content:deploy
 ```
 
 ## Screenshot
-![ScreenShot](https://github.com/mateussantin/magento2-admin-order-status-color/blob/main/screenshot/order-status.png)
+![ScreenShot](https://github.com/mateussantin/magento2-admin-order-status-color/blob/master/screenshot/order-status.png)
