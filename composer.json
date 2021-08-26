@@ -16,6 +16,7 @@
         "php": "~7.0.0|~7.1.0|~7.2"
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "files": [
             "registration.php"
