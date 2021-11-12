@@ -7,8 +7,8 @@ Changes the color of the order status column in the UI grid, based on the curren
 
 ```
 composer require mateus/module-orderstatuscolor
+php bin/magento module:enable Mateus_OrderStatusColor
 php bin/magento setup:upgrade
-php bin/magento setup:static-content:deploy
 ```
 
 ## Screenshot
