@@ -1,12 +1,11 @@
 /**
- * Copyright © Mateus, Inc. All rights reserved.
- * See COPYING.txt for license details.
+ * Copyright © Mateus. All rights reserved.
  */
 
 define([
     'underscore',
     'Magento_Ui/js/grid/columns/select'
-], function(_, Column) {
+], function (_, Column) {
     'use strict';
 
     return Column.extend({

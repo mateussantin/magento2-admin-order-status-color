@@ -1,6 +1,6 @@
 <?php
     /**
-     * Copyright © Mateus, Inc. All rights reserved.
+     * Copyright © Mateus. All rights reserved.
      * See COPYING.txt for license details.
      */
     \Magento\Framework\Component\ComponentRegistrar::register(
