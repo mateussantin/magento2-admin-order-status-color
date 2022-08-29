@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 /**
-* Copyright © Mateus. All rights reserved.
+* Copyright © Nadeem. All rights reserved.
 */
 -->
 <listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
     <columns name="sales_order_columns">
-        <column name="status" component="Mateus_OrderStatusColor/js/grid/columns/select">
+        <column name="status" component="Nadeem_OrderStatusColor/js/grid/columns/select">
             <settings>
                 <filter>select</filter>
                 <options class="Magento\Sales\Ui\Component\Listing\Column\Status\Options"/>

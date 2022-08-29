@@ -1,5 +1,5 @@
 /**
- * Copyright © Mateus. All rights reserved.
+ * Copyright © Nadeem. All rights reserved.
  */
 
 define([
@@ -10,7 +10,7 @@ define([
 
     return Column.extend({
         defaults: {
-            bodyTmpl: 'Mateus_OrderStatusColor/ui/grid/cells/text'
+            bodyTmpl: 'Nadeem_OrderStatusColor/ui/grid/cells/text'
         },
         getOrderStatusColor: function (row) {
             if (row.status == 'pending') {
