@@ -1,25 +1,31 @@
 {
     "name": "mateus/module-orderstatuscolor",
     "description": "Changes the color of the order status column in the UI grid, based on the current status of the order.",
-    "keywords": ["mateussantin", "magento2", "Order", "Order Status", "Order Status Color"],
-    "homepage": "https://github.com/mateussantin/magento2-admin-order-status-color",
+    "license": "proprietary",
     "type": "magento2-module",
     "version": "1.0.1",
-    "license": "proprietary",
+    "keywords": [
+        "mateussantin",
+        "magento2",
+        "Order",
+        "Order Status",
+        "Order Status Color"
+    ],
     "authors": [
         {
             "name": "Mateus Santin",
             "email": "mateussantin.jr@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "homepage": "https://github.com/mateussantin/magento2-admin-order-status-color",
     "require": {},
+    "minimum-stability": "dev",
     "autoload": {
-        "files": [
-            "registration.php"
-        ],
         "psr-4": {
             "Mateus\\OrderStatusColor\\": ""
-        }
+        },
+        "files": [
+            "registration.php"
+        ]
     }
 }
