@@ -19,7 +19,6 @@
     ],
     "homepage": "https://github.com/mateussantin/magento2-admin-order-status-color",
     "require": {},
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Mateus\\OrderStatusColor\\": ""
