@@ -2,7 +2,7 @@
 Changes the color of the order status column in the UI grid, based on the current status of the order. 
 
 ## Spontaneous Contribution
-If you want to send me a contribution of any amount so that I can continue developing and finding other solutions that make your life easier like this one, I will be very grateful, the link is next to the profile or you can <a href="https://nubank.com.br/pagar/1bxwx1/WUDIrRFuUs" target="_blank">click here</a> Thanks!
+If you want to send me a contribution of any amount so that I can continue developing and finding other solutions that make your life easier like this one, I will be very grateful, the link is next to the profile or you can <a href="https://nubank.com.br/pagar/1bxwx1/KrTCm3JrIA" target="_blank">click here</a> Thanks!
 
 ## Introduction to installation:
 
